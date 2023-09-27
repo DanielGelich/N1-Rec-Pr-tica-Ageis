@@ -1,5 +1,7 @@
 # N1-Rec-Pr-tica-Ageis
 
+Alunos: Carlos Nass e Daniel Gelich
+
 Prova refeita !
 
 1a - User Stories são descrições simples de requisitos em desenvolvimento ágil de
